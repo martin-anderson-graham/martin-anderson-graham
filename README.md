@@ -1,8 +1,8 @@
 ### Hi there, my name is Martin 👋
 
-I am a software developer from Waco, Texas. Formerly a teacher and IT Director at a small school, I enjoy solving technical problems in pursuit of a shared organizational mission. I'm comfortable with Node.js, React, TypeScript, PostgreSQL, Python and Django.
+Formerly a teacher math and science teacher, a few years ago I transitioned into software engineering. I enjoy solving technical problems in pursuit of a shared organizational mission, but still retain a love of teaching and mentoring younger engineers.
 
-I'm currently working as a software developer at [Property Meld](https://www.propertymeld.com). Find out more about me at my site <a href ='https://martingraham.dev/' target = "_blank">martingraham.dev</a>.
+I'm currently working as a software developer at [Property Meld](https://www.propertymeld.com). Find out more about me at my site <a href ='https://martingraham.dev/' target = "_blank">martingraham.dev</a>. My current hobby project is [prediction-ledger](https://github.com/martin-anderson-graham/prediction-ledger), a TUI written in Rust used to track and score the accuracy of your predictions about the world.
 
 <!--
 **martin-anderson-graham/martin-anderson-graham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
